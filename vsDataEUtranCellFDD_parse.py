@@ -10,7 +10,7 @@ __AUTHOR__='Lifecell OSS group'
 __COPYRIGHT__='Lifecell UA Company, 2018 Kiev, Ukraine'
 __version__ = '1.2'
 __license__ = "GPL"
-__email__ = "oss_group@lifecell.com.ua"
+__email__ = "oss_xxxx@lifexxxm.ua"
 __status__ = "Production"
 
 
